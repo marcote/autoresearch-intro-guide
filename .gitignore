@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+results.tsv
+*.pyc
+run.log
+.env
+.DS_Store
+.claude/
+CLAUDE.md
